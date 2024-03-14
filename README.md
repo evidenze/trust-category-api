@@ -34,7 +34,7 @@ cp .env.example .env
 DB_CONNECTION=postgres
 DB_HOST=127.0.0.1
 DB_PORT=5432
-DB_DATABASE=your_database_name
+DB_NAME=your_database_name
 DB_USERNAME=your_database_username
 DB_PASSWORD=your_database_password
 ```
